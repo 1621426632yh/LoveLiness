@@ -1,0 +1,44 @@
+module.exports={
+    status:200,
+    hasMore:true,
+    data:[
+        {
+            id:1,
+            title:"彩妆界的奢侈品——Dior",
+            talk:"239",
+            hotTalk:"348654",
+            detailtitle1:"Dior粉饼",
+            price1:"599",
+            candi1:"法国",
+            method1:"夏季必备神器",
+            desc1:"质感轻薄，不油腻",
+
+            detailtitle2:"Dior口红",
+            price2:"499",
+            candi2:"法国",
+            method2:"女神色号",
+            desc2:"不沾杯，不尴尬，诱惑直男色",
+            img1:"https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1414072937,2791096356&fm=26&gp=0.jpg",
+            img2:"https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1385669104,3926462576&fm=26&gp=0.jpg"
+        },
+        {
+            id:2,
+            title:"不管就是喜欢——YSL",
+            talk:"2629",
+            hotTalk:"521314",
+            detailtitle1:"YSL香水",
+            price1:"489",
+            candi1:"香港",
+            method1:"约会秘密单品",
+            desc1:"香味清新，淑女专属",
+
+            detailtitle2:"YSL包包",
+            price2:"869",
+            candi2:"昆山",
+            method2:"出门必备单品",
+            desc2:"真皮，质感超好，精美皮质包包",
+            img1:"//img11.360buyimg.com/n5/s450x450_jfs/t1/3637/1/2094/187732/5b95ca8fE9374f568/51753f0db0dc2ce9.jpg",
+            img2:"http://img12.360buyimg.com/n7/jfs/t1/109667/39/10819/24460/5e82358bEfb83b6dd/3765fe17b87068a0.jpg"        
+        }
+    ]
+}
